@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  color: yellow;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+h1 {
+  color: orange;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: purple;
+  font-family:'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+ol {
+  text-align: left;
+  margin-left: 25px;
+}
+
+
+
+.ingredients {
+  text-align: center;
+}
+
+.ingredients, .home ul {
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.header img {
+  display: block;
+  margin: 0 auto;
+}
